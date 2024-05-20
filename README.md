@@ -1,4 +1,3 @@
-# Getting Started with Create React App
 
 This is a basic code snippet for learning and implementing Reddux Toolkit
 You will create a reducer.
